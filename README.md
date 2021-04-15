@@ -2,18 +2,18 @@
 
 ## Some Tech that I use
 
-# Styled Components
+Styled Components
 
-# React Icons
+React Icons
 
-# React Router Dom
+React Router Dom
 
-# Gihthub API
+Gihthub API
 
-# Fusion Charts
+Fusion Charts
 
-# Auth0
+Auth0
 
-# Deployment
+Deployment
 
 [Netlify](https://www.netlify.com/)
