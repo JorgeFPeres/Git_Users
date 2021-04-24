@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="PodCastr" src="public/logo.svg" width="160px">
+    <img alt="PodCastr" src="public/logo.png" width="160px">
 </h1>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img alt="PodCastr" src="public/podcastr.svg">
+  <img alt="PodCastr" src="public/img.png">
 </p>
 
 ## 🧪 Technologies
