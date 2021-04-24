@@ -53,10 +53,10 @@ $ npm start
 
 [Git_Users](https://git-users-project.netlify.app/) to bring you mode details about you Github! 💜 
 
-This is a project developed during the **[React Course and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/)**, presented by **[@john-smilga](https://github.com/john-smilga)** during March, 2021.
+This is a project developed during the **[React Course and Projects](https://www.udemy.com/course/react-tutorial-and-projects-course/)**, presented by **[@John Smilga](https://github.com/john-smilga)** during March, 2021.
 
 
-Remembering that you need to have a [Figma](http://figma.com/) account to access it.
+
 
 ## 📝 License
 
